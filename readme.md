@@ -1,4 +1,4 @@
-# 🧠 AI Role Validator – XML to PDF Job Role Comparison Tool
+# 🧠 AI-Job-Spec-Comparator-XML-to-PDF-Validation
 
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-blue?logo=streamlit)](https://thankabharathi-role-validator-xml-to-pdf-job-role-comparison.streamlit.app/)
 [![Python](https://img.shields.io/badge/Built%20with-Python%203.9-blue?logo=python)](https://www.python.org/)
