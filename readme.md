@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Click to Open App](https://thankabharathi-role-validator-xml-to-pdf-job-role-comparison.streamlit.app/)
+🔗 [Click to Open App](https://ai-job-spec-comparator-xml-to-pdf-validation.streamlit.app/)
 
 ---
 
